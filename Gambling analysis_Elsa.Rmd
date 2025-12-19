@@ -38,7 +38,7 @@ Gambling has become increasingly prevalent in the United Kingdom, with the gambl
 
 This study examines whether heavier gambling expenditure is associated with smaller salary increases over a five-year period. Using bank transaction data from 2012 to 2020, we analyse the relationship between gambling behaviour in an early period (2014–2015) and subsequent salary growth through to 2019–2020. We employ multiple analytical approaches to characterise the nature of this relationship, including tests for nonlinearity, heterogeneity across income groups, and distributional effects using quantile regression.
 
-**GitHub Repository**: [Insert link here]
+**GitHub Repository**: https://github.com/elsaxzzx/Elsa-IB9MH-Assignment.git
 
 # Methods
 
